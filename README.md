@@ -1,4 +1,8 @@
 # Mouse and human comparative development.
+Later on, the full database and analysis code will be included.
+
+Metadata:
+
 Description: Random sample of the dataset EQUIVALENT AGES IN MOUSE AND HUMAN EMBRYOS, EILEEN M. OTIS AND ROBERT BRENT, University of Rochester, Atomic Energy Project, Rochester, New York
 Creation Date: May 2023
 Last Modification: May 2024
