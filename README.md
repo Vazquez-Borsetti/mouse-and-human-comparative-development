@@ -1,5 +1,4 @@
-# mouse-and-human-comparative-development.
-Mouse and human comparative development.
+# Mouse and human comparative development.
 Description: Random sample of the dataset EQUIVALENT AGES IN MOUSE AND HUMAN EMBRYOS, EILEEN M. OTIS AND ROBERT BRENT, University of Rochester, Atomic Energy Project, Rochester, New York
 Creation Date: May 2023
 Last Modification: May 2024
